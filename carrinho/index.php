@@ -18,7 +18,7 @@
 <ul>
   <li><a href="#home">Home</a></li>
   <li><a href="#news">Locação</a></li>
-  <li><a href="cadastrocliente.html">Cadastro Cliente</a></li>
+  <li><a href="cadastrocliente.html">Cadastro de Cliente</a></li>
   <li><a href="cadastrofuncionario.html">Cadastro Funcionario</a></li>
   <li><a href="cadastroveiculo.html">Cadastro Veículo</a></li>
   <li style="float:right"><a class="active" href="login.html">Login</a></li>
